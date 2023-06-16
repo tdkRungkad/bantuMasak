@@ -25,9 +25,7 @@ Making sure that user will have a pleasant experience
 
 ## Result (Mobile Development)
 
-![mainmenu](https://github.com/tdkRungkad/bantuMasak/assets/129688029/b230dbad-f57f-4e6a-9c22-f4e52149b9cc)
-
-![describeRecipe](https://github.com/tdkRungkad/bantuMasak/assets/129688029/6ad68e02-dab6-4b3a-801d-45da36395a9b)
+![result](https://github.com/tdkRungkad/bantuMasak/assets/129688029/1c82a01e-f32d-4dd2-99f3-e2fc1d2914a0)
 
 ### Recipe for You
 ![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/09c0b7cf-0fea-43ac-8940-644899f6fbd1)
