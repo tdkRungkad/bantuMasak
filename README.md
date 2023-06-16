@@ -28,16 +28,10 @@ Making sure that user will have a pleasant experience
 ![result](https://github.com/tdkRungkad/bantuMasak/assets/129688029/1c82a01e-f32d-4dd2-99f3-e2fc1d2914a0)
 
 ### Recipe for You
-![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/09c0b7cf-0fea-43ac-8940-644899f6fbd1)
+![recipeforyou](https://github.com/tdkRungkad/bantuMasak/assets/129688029/d176c870-533b-438e-af21-f02957cfeddc)
 
 ### Search Recipe
-![search](https://github.com/tdkRungkad/bantuMasak/assets/129688029/d66bac75-3e05-458b-adaf-1010ebab4767)
+![search1](https://github.com/tdkRungkad/bantuMasak/assets/129688029/0ba5277e-c6c0-474a-8975-45f46410e8fe)
 
-### Login
-![login](https://github.com/tdkRungkad/bantuMasak/assets/129688029/ed4a6877-5f61-41ea-9d92-6fb0c7a0043e)
-
-### Sign Up
-![signUp](https://github.com/tdkRungkad/bantuMasak/assets/129688029/f5aaab1b-ab4b-437c-854a-23ce800f1cd0)
-
-### Sign In
-![signIn](https://github.com/tdkRungkad/bantuMasak/assets/129688029/b009bba8-34d2-455e-a2f1-c6aff8338316)
+### Security
+![autenthication](https://github.com/tdkRungkad/bantuMasak/assets/129688029/7f263753-dd6d-4663-9f4f-860cdef1cf22)
